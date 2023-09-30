@@ -1,0 +1,22 @@
+﻿Build started 2/4/2013 1:19:51 PM.
+     1>Project "C:\Users\ssiewert\Documents\Visual Studio 2010\Projects\Ex-3\Ex-3\Ex-3.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Ex-3.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\BROWSEMNGR.SETTINGS' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\00' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\01' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\02' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\03' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\10' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\11' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\12' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\13' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\20' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\21' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\22' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1123.78\{16CDFF19-861D-48E3-A751-D99A27784753}\TRAKING_SETTINGS\23' because it is being used by another process.
+     1>Done Building Project "C:\Users\ssiewert\Documents\Visual Studio 2010\Projects\Ex-3\Ex-3\Ex-3.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02
